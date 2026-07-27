@@ -1,0 +1,18 @@
+0.Создать файл index.js
+
+1.Создать один файл руками(first.txt).
+
+2.Поместить в него "Я люблю NodeJS" руками.
+
+3.Другой новый файл програмно(second.txt).
+
+4.Записать в него "I like NodeJS" програмно.
+
+5.*Дописать информацию из first.txt в second.txt
+програмно.
+
+Решение отправить решение ввиде ссылки на GitHub.
+По комиту на каждую задачу.
+
+https://nodejs.org/dist/latest-v18.x/docs/api/fs.html#synchronous-example
+
